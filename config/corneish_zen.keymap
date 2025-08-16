@@ -893,7 +893,7 @@
 				&sl mSFunc
 				&sl mDFunc					
 				&sl mNative
-				&mModCtlReset
+				&mModGuiReset
 				&sl mSym
 
 				// ----------------------------------------
@@ -964,10 +964,10 @@
 				// ----------------------------------------
 
 				&sl mSym	
-				&mModGuiReset
+				&mModCtlReset
 				&sl mDFunc
 				&sl mDeepNative
-				&mModSCtlReset
+				&mModSGuiReset
 				&sl mSym
 
 				// ----------------------------------------       
@@ -1078,7 +1078,7 @@
 
 				// ----------------------------------------
 
-				&kp LG(Q)
+				&kp LG(H)
 				&kp LS(LG(N1))			// 21 			
 				&kp LS(LG(N2))			// 22
 				&kp LS(LG(N3))			// 23
